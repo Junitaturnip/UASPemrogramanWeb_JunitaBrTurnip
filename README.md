@@ -1,27 +1,35 @@
-# Deskripsi Aplikasi
- Sistem Informasi Perpustakaan Berbasis Web merupakan sistem yang dapat digunakan untuk mengelola berbagai aktifitas di perpustakaan, mulai dari penyimpanan databuku hingga proses peminjaman.
+# Aplikasi Perpustakaan Digital
+Aplikasi berbasis web untuk pengelolaan buku, anggota, dan peminjaman di perpustakaan
 
-# Framework
-* Codeigniter 3.1.11
-* Template Admin LTE  Versi 2.4
+## Fitur
+- CRUD Buku
+- Pencarian & Pagination
+- Manajemen Anggota & Peminjaman
+- Login Session untuk Admin & Anggota
 
-# Penggunaan Login Akses
+# Teknologi
+* Codeigniter 3
+* Bootstrap + AdminLTE
+* MySQL
+
+
+# Login Akun
 
 <b>Petugas Perpus : </b>
 <br/>
-User : anang
+User : Junita
 <br/>
 Pass : 123
 
 <b>Anggota Perpus :</b>
 <br/>
-User : fauzan
+User : Anwar
 <br/>
 Pass : 123
 
-# Contributors
-<a href="https://fauzan.codekop.com/"> Fauzan Falah</a>
-
-My Blog : <a href="https://www.codekop.com/"> Codekop.com</a>
-
-Gunakan Aplikasi dengan bijak, dan selamat belajar
+#Pembuat
+<b>Dibuat oleh : </b>
+<br/>
+Nama : Junita Br Turnip
+<br/>
+Nim : 240401020056
